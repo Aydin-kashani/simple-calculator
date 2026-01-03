@@ -8,6 +8,17 @@ This is my second Python project. I wrote it with simple syntax on purpose, and 
 
 ---
 
+## Why I built this
+This is my second Python project.
+I built it to practice basic programming logic and to get better at writing a CLI app that feels structured, not random.
+
+## What I learned
+- Building a menu-based CLI and keeping the flow consistent
+- Handling edge cases (for example division by zero) and thinking about input validation
+- Separating the idea of “calculation” from “history”, and how I can improve it in the next versions
+
+---
+
 ## What is this project?
 
 This is an educational mini-project: a simple calculator in Python that can:
@@ -92,7 +103,7 @@ You only need a working Python 3 installation to run the script.
 
 - Add a simple graphical menu or GUI version of the calculator
 
--Optimize and refactor the code to reduce unnecessary lines and make the logic cleaner
+- Optimize and refactor the code to reduce unnecessary lines and make the logic cleaner
 
 ---
 
