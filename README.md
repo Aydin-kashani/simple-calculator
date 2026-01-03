@@ -8,6 +8,11 @@ This is my second Python project. I wrote it with simple syntax on purpose, and 
 
 ---
 
+## Demo
+![Demo](assets/Demo.png)
+
+---
+
 ## Why I built this
 This is my second Python project.
 I built it to practice basic programming logic and to get better at writing a CLI app that feels structured, not random.
